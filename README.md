@@ -11,14 +11,14 @@ O principal objetivo deste desafio é familiarizar os alunos com as tags básica
 ### Instruções para o Desafio
 
 1. **Utilizar todas as tags ensinadas nas aulas:**
-   - Cabeçalhos: <h1>, <h2>, <h3>, <h4>, <h5>, <h6>
-   - Parágrafos e textos: <p>, <mark>, <small>, <i>, <u>, <strong>
-   - Listas: <ol>, <ul>, <li>
-   - Links: <a>
-   - Outros: <hr>, <sub>, <sup>, <blockquote>
+   - Cabeçalhos: `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`
+   - Parágrafos e textos: `<p>`, `<mark>`, `<small>`, `<i>`, `<u>`, `<strong>`
+   - Listas: `<ol>`, `<ul>`, `<li>`
+   - Links: `<a>`
+   - Outros: `<hr>`, `<sub>`, `<sup>`, `<blockquote>`
 
 2. **Explorar e usar novas tags:**
-   - <font>, <del>, <abbr>
+   - `<font>`, `<del>`, `<abbr>`
 
 Essas tags devem ser utilizadas para criar uma página web básica, permitindo que os alunos pratiquem e consolidem seus conhecimentos.
 
@@ -26,3 +26,4 @@ Essas tags devem ser utilizadas para criar uma página web básica, permitindo q
 
 - **index.html**: Arquivo principal do projeto contendo a estrutura HTML.
 - **README.md**: Este arquivo, explicando o propósito e a estrutura do repositório.
+
